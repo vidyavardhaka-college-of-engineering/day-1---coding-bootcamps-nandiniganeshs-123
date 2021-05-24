@@ -10,9 +10,10 @@
 #include<stdio.h>
 int main()
 {
+  int n;
 //Decleade Integer n and write scanf code bellow 
 printf("Enter an Interger Value\n");
-
+scanf("%d",&n);
 //if you write correcr code your value will print
 printf("%d",n);
 printf("Good Job...");
